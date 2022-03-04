@@ -18,5 +18,6 @@ public class GameManager : MonoBehaviour
 	private void Start()
 	{
 		isContinue = true;
+		
 	}
 }

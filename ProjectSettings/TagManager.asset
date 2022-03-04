@@ -7,6 +7,8 @@ TagManager:
   - obstacle
   - collectible
   - finish
+  - left
+  - right
   layers:
   - Default
   - TransparentFX
