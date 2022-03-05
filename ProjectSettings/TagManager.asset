@@ -9,6 +9,8 @@ TagManager:
   - finish
   - left
   - right
+  - sag
+  - sol
   layers:
   - Default
   - TransparentFX
